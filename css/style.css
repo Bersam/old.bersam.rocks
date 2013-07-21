@@ -25,32 +25,32 @@ Light Gray: #eee
 body {
 	margin: 0px;
 	padding: 0px;
-	background: url("../images/bg_light_blue.png");  
+	background: url("../images/bg_light_blue.png");
 	background-color: inherit;
-	font-size: 16px; 
+	font-size: 16px;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	color: #000;
 }
 
-a:link { 
+a:link {
 	text-decoration: underline;
 	color: #000;
 	font-weight: bold;
 }
 
-a:visited { 
+a:visited {
 	text-decoration: underline;
 	color: #000;
 	font-weight: bold;
 }
 
-a:hover { 
+a:hover {
 	text-decoration: underline;
 	color: #0066cc;
 	font-weight: bold;
 }
 
-a:active { 
+a:active {
 	text-decoration: underline;
 	color: #000;
 	font-weight: bold;
@@ -58,7 +58,7 @@ a:active {
 
 #wrapper	{
 	width: 965px;
-	margin: 0 auto;	
+	margin: 0 auto;
 }
 
 #content {
@@ -91,7 +91,7 @@ a:active {
 
 #contact-details .header_1 img {
 	border: #fff solid 4px;
-	background: url("../images/bg_img_light_blue.png"); 
+	background: url("../images/bg_img_light_blue.png");
 	padding: 16px;
 	margin: 10px 0px 0px 0px;
 }
@@ -167,13 +167,13 @@ a:active {
 --------------------------------------------------- */
 
 h2.top	{
-	margin: 0px; 
+	margin: 0px;
 	font-size: 22px;
 	font-weight: bold;
 }
 
 h2	{
-	margin: 40px 0px 0px 0px; 
+	margin: 40px 0px 0px 0px;
 	font-size: 22px;
 	font-weight: bold;
 }
@@ -194,7 +194,7 @@ dt	{
 }
 
 dd	{
-	width: 620px; 
+	width: 620px;
 	float: right;
 	margin-right: 20px;
 }
@@ -240,21 +240,21 @@ p.summary	{
 }
 
 
-#skills ul.list1	{	
+.skills ul.list1	{
 	float: left;
 	list-style: none;
 	margin: 0px 0px 0px -40px;
 	width: 220px;
 }
 
-#skills ul.list2	{	
+.skills ul.list2	{
 	float: left;
 	list-style: none;
 	margin: 0px 0px 0px 0px;
 	width: 220px;
 }
 
-#skills li {
+.skills li {
     background: url("../images/bullet_blue.png") no-repeat;
 	background-position: 0px 2px;
     padding: 0px 0px 0px 25px;
@@ -298,11 +298,11 @@ abbr	{
 	padding: 0px;
 }
 
-#footer .icons_1 li, #footer .icons_2 li { 
-	margin: 0px 0px 0px 7px; 
-	padding: 0px; 
-	list-style-type: none; 
-	display: inline; 
+#footer .icons_1 li, #footer .icons_2 li {
+	margin: 0px 0px 0px 7px;
+	padding: 0px;
+	list-style-type: none;
+	display: inline;
 }
 
 #footer a	{
